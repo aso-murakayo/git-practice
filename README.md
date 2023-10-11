@@ -1,3 +1,3 @@
 # test10112
 
-aaaaaa
+gitの練習
